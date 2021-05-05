@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<carta>
+	<nombre>Paco Ramirez</nombre>
+	<direccion>Calle Trufa nº13</direccion>
+	<municipio>Punta Umbria</municipio>
+	<ciudad>Huelva</ciudad>
+	<pais>España</pais>
+	<codigopostal>21100</codigopostal>
+	<asunto>playa</asunto>
+	<fecha>10-03-2021</fecha>
+	<texto>que pasa colega, estas invitado a la playa</texto>
+</carta>
