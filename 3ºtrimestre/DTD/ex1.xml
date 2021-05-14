@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE dirección [
+   <!ELEMENT dirección (nombre, compañia, tlf, email, edad, estado-civil)>
+   <!ELEMENT nombre (#PCDATA)>
+   <!ELEMENT compañia (#PCDATA)>
+   <!ELEMENT tlf (#PCDATA)>
+   <!ELEMENT email (#PCDATA)>
+   <!ELEMENT edad (#PCDATA)>
+   <!ELEMENT estado-civil (#PCDATA)>
+
+]>
+<dirección>
+   <nombre>Pedro López</nombre>
+   <compañia>C/Robalo</compañia>
+   <tlf>959245671</tlf>
+   <email>pedrolope@gmail.com</email>
+   <edad>30</edad>
+   <estado-civil>s</estado-civil>
+</dirección>
