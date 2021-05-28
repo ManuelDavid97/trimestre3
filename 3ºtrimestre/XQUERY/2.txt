@@ -1,0 +1,7 @@
+<ul>
+{
+for $x in doc("catalog.xml")/catalog/product/name
+order by $x
+return <li>{$x}</li>
+}
+</ul>

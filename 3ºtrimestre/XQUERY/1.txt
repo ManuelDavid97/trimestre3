@@ -1,0 +1,4 @@
+for $x in doc("catalog.xml")/catalog/product/name 
+where $x/@dept="ACC" 
+order by $x/name 
+return $x/name
